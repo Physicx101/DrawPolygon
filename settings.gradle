@@ -1,0 +1,2 @@
+rootProject.name = "DrawPolygon"
+include ':app'
